@@ -1,6 +1,6 @@
 🚀 EXCEL Projects
 
-Hello! 👋 My name is Behiye, and this repository contains the projects I have worked on during my Data Science journey. Here, I practice different data analysis techniques and share my solutions. 🧠💡
+Hello! 👋 My name is Behiye, and this repository contains the Excel projects I have worked on during my Data Science journey. Here, I practice different data analysis techniques and share my solutions. 🧠💡
 
 1️⃣ Market Basket & RFM Analysis
 
