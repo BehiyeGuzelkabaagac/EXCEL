@@ -1,4 +1,5 @@
 🚀 EXCEL Projects
+
 Hello! 👋 My name is Behiye, and this repository contains the projects I have worked on during my Data Science journey. Here, I practice different data analysis techniques and share my solutions. 🧠💡
 
 1️⃣ Market Basket & RFM Analysis
@@ -38,6 +39,7 @@ Main Topics Analyzed
 
 
 📌 How to Use?
+
 1️⃣ Clone the repository:
 
  git clone https://github.com/BehiyeGuzelkabaagac/EXCEL.git
@@ -45,9 +47,9 @@ Main Topics Analyzed
 2️⃣ Navigate to the relevant folder and explore the projects! 🎯
 
 📬 Contact Me
-💡 Feel free to share your thoughts or contribute to this project!
 
 📧 Email: behiyegka@gmail.com
+
 💼 www.linkedin.com/in/behiye-guzelkabaagac
 
 ⭐ If you find this project helpful, don't forget to star the repository! ⭐
