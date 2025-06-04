@@ -4,6 +4,7 @@ Hello! 👋 My name is Behiye, and this repository contains the Excel projects I
 
 1️⃣ Market Basket & RFM Analysis
 
+
 📄Excel_Market Basket & RFM Analysis.xlsx
 
 🔍 I explored Market Basket Analysis and RFM segmentation for a fictional campaign: "Make Your Own Jam!" 
@@ -23,6 +24,7 @@ Hello! 👋 My name is Behiye, and this repository contains the Excel projects I
 
 
 2️⃣ Airline Customer Satisfaction Analysis (CSAT) ✈️
+
 
 📄 Excel_CSAT.xlsx :  Raw data + pivot-based summary analysis
 
@@ -55,7 +57,7 @@ Main Topics Analyzed
 - Python (pandas, matplotlib, seaborn)
   
 - Jupyter Notebook
-- 
+  
 
 
 📌 How to Use?
