@@ -8,7 +8,9 @@ Hello! 👋 My name is Behiye, and this repository contains the Excel projects I
 
 🔍 I explored Market Basket Analysis and RFM segmentation for a fictional campaign: "Make Your Own Jam!" 
 
+
 📊Here’s what I did:
+
 
 📌Identified products most often bought with the Jam Making Set
 
@@ -19,6 +21,7 @@ Hello! 👋 My name is Behiye, and this repository contains the Excel projects I
 📌Suggested campaign ideas tailored to different customer types
 
 
+
 2️⃣ Airline Customer Satisfaction Analysis (CSAT) ✈️
 
 📄 Excel_CSAT.xlsx :  Raw data + pivot-based summary analysis
@@ -27,7 +30,9 @@ Hello! 👋 My name is Behiye, and this repository contains the Excel projects I
 
 This project explores airline customer feedback data to uncover patterns in satisfaction across different service touchpoints and customer segments.
 
+
 Main Topics Analyzed
+
 
 - 📶 Adoption of in-flight Wi-Fi services (FlyNet Plus)
   
@@ -40,14 +45,17 @@ Main Topics Analyzed
 - 💬 Textual feedback analysis from customer comments
   
 - 📈 Strategy suggestions based on analytical findings
+  
 
 🛠️ Tools 
+
 
 - Excel (Pivot Tables, Filtering, Basic Statistics)
   
 - Python (pandas, matplotlib, seaborn)
   
 - Jupyter Notebook
+- 
 
 
 📌 How to Use?
@@ -55,6 +63,7 @@ Main Topics Analyzed
 1️⃣ Clone the repository:
 
  git clone https://github.com/BehiyeGuzelkabaagac/EXCEL.git
+ 
  
 2️⃣ Navigate to the relevant folder and explore the projects! 🎯
 
